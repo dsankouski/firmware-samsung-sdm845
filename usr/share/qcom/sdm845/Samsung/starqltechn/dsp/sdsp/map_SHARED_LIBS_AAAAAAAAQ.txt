@@ -1,0 +1,10 @@
+../../touch/build/shared_libs/qdsp6/AAAAAAAA/libFastRPC_UTF_Forward_800s_sdm845_skel.so
+
+../../performance/sysmonapp/build/shared_libs/qdsp6/AAAAAAAA/libsysmon_skel.so
+
+../../performance/sysmonapp/build/shared_libs/qdsp6/AAAAAAAA/libsysmondomain_skel.so
+
+../../performance/sysmonapp/build/shared_libs/qdsp6/AAAAAAAA/libstabilitydomain_skel.so
+
+../bsp/fastrpc_shell_img/build/AAAAAAAA/fastrpc_shell_2
+
